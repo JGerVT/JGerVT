@@ -11,3 +11,10 @@ GitHub or GitLab page for this project: https://github.com/JGerVT/InspireCanvas
 
 ## Video Walkthroughs
 
+Demo: 
+
+Data: 
+
+Verification and Validation:
+
+Re-usable Code: 
