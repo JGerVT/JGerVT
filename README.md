@@ -1,12 +1,13 @@
-## Week 14-A1: Final Project Submission 
+# Week 14-A1: Final Project Submission 
 
-### Github Links
+## Github Links
 GitHub or GitLab repository home page: https://github.com/JGerVT/JGerVT
+
 GitHub or GitLab page for this project: https://github.com/JGerVT/InspireCanvas
 
-### Documentation
+## Documentation
 
 
 
-### Video Walkthroughs
+## Video Walkthroughs
 
