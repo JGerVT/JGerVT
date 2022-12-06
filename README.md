@@ -1,7 +1,7 @@
 # Week 14-A1: Final Project Submission 
 ## % Complete
 ```
-100%
+100% 🎉 
 ```
 All requirements for this software and course have been completed. 
 ### My Software incorporates:
