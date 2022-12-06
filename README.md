@@ -17,17 +17,18 @@ All requirements for this software and course have been completed.
 - The ability to select and manipulate multiple canvas items at once.
 - Copy, paste, delete and duplicate functionality for Canvas Items and Tabs.
 
-### To-Do:
+### The future of this software:
 This project will be continued and extended outside of this course, but the basic functionality has been completed.
 Some features that still need to be added outside this course are:
 - GUI database panel of all canvas items on the canvas
 - Settings page to alter various aspects of the software
 - Allow music files to be played from within the canvas
 - Change the color of the dot for each tab
-- Improve the Performance
-- Make the software cross-compatible on Mac and Linux
 - Add a left sidebar to open projects using the top left hamburger button
 - Add more Text CanvasItem formats
+- Improve the Performance
+- Make the software cross-compatible on Mac and Linux
+
 
 ## Github Links
 GitHub repository home page: https://github.com/JGerVT/JGerVT
