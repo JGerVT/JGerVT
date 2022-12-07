@@ -3,12 +3,12 @@
 ```
 100% 🎉 
 ```
-All requirements for this software and course have been completed. 
-### My Software incorporates:
-- Persistent data between sessions (Save and Load JSON)
-- Data Validation and Verification
-- Reusable Code
-- Code Documentation throughout
+### Architectural Requirements:
+All requirements for this software have been completed. 
+- Persistent data between sessions  (Save and Load JSON)
+- Data Validation and Verification  (Validate JSON file structure and Validate Image file exists on import)
+- Reusable Code                     (Tabs, Canvas Items, and Utility scripts are used throughout)
+- Code Documentation throughout     (Docstrings have been provided for nearly all Python files, classes, and functions)
 
 ### This software includes:
 - Images, Files, and Text can be placed, moved, and scaled on the canvas.
