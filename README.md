@@ -39,8 +39,7 @@ GitHub repository home page: https://github.com/JGerVT/JGerVT
 GitHub page for Inspire Canvas: https://github.com/JGerVT/InspireCanvas
 
 ## Documentation
-[https://docs.google.com/document/d/1KFFNjj-cqbQAU3lrxE-uYUSwNH-I7xt5/edit?usp=share_link&ouid=116772969107062310441&rtpof=true&sd=true](https://docs.google.com/document/d/1KFFNjj-cqbQAU3lrxE-uYUSwNH-I7xt5/edit?usp=sharing&ouid=116772969107062310441&rtpof=true&sd=true)
-
+[SDEV-435-81 - Week 14-A1: Final Project Documentation](https://docs.google.com/document/d/1IxIpK8A1RhcN7P-IFZ8lfKkIdmDhgQYN/edit?usp=sharing&ouid=116772969107062310441&rtpof=true&sd=true)
 ## Video Walkthroughs
 
 Demo: https://youtu.be/7TCfMtzZ4oc
