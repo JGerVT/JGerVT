@@ -28,7 +28,9 @@ Some features that still need to be added outside this course are:
 - Add more Text CanvasItem formats
 - Improve the Performance
 - Make the software cross-compatible on Mac and Linux
-
+- QOL and Accessibility features:
+  - Allowing the user to move the canvas by holding the space bar and dragging
+  - Allowing the user to zoom with the plus and minus button
 
 ## Github Links
 GitHub repository home page: https://github.com/JGerVT/JGerVT
