@@ -34,7 +34,7 @@ Some features that still need to be added outside this course are:
   - Allowing the user to zoom with the plus and minus button
 
 ## Github Links
-GitHub repository home page: https://github.com/JGerVT/JGerVT
+GitHub repository home page: https://github.com/JGerVT
 
 GitHub page for Inspire Canvas: https://github.com/JGerVT/InspireCanvas
 
