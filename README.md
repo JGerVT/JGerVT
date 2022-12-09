@@ -5,12 +5,19 @@
 ```
 ### Architectural Requirements:
 All requirements for this software have been completed. 
-- Persistent data between sessions  (Save and Load JSON)
-- Data Validation and Verification  (Validate JSON file structure and Validate Image file exists on import)
-- Reusable Code                     (Tabs, Canvas Items, and Utility scripts are used throughout)
-- Code Documentation throughout     (Docstrings have been provided for nearly all Python files, classes, and functions)
+- Persistent data between sessions 
+  - Save and Load JSON
+- Data Validation and Verification 
+  - Validate JSON file structure 
+  - Validate that Image file exists on import
+- Reusable Code 
+  -	Tabs
+  -	Canvas Items
+  -	Utility scripts are used throughout
+- Code Documentation throughout 
+  -	Docstrings have been provided for nearly all Python files, classes, and functions
 
-### This software includes:
+### This software’s features:
 - Images, Files, and Text can be placed, moved, and scaled on the canvas.
 - The canvas can be panned and zoomed on
 - Tabs to store multiple canvases.
