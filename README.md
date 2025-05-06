@@ -1,7 +1,7 @@
 # Hi, I'm Jesse Germain 👋
 
 ## 🌟 About Me
-I am a full stack developer with experience in backend/frontend development and frontend design. Over the years, I have refined my skills by working on a diverse range of personal, allowing me to build robust applications and enhance user experiences.
+I am a full stack developer with experience in backend/frontend development and frontend design. Over the years, I have refined my skills by working on a diverse range of personal projects, allowing me to build useful applications and enhance user experiences.
 
 I have hands-on expertise with cloud-based databases, particularly with Supabase and Cloudflare (R2 and Cloudflare Workers), to develop scalable and efficient cloud solutions. 
 
