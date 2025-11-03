@@ -83,9 +83,11 @@ My expertise lies in crafting seamless user experiences using **React**, **Elect
 ## 🏆 Key Achievements
 
 - Delivered 5+ full-stack applications from concept to deployment.
-- Specialized in optimizing desktop app performance with Electron and React.
-- Integrated third-party APIs (Google Translate, Supabase, Cloudflare).
+- Achieved a Softare Development Bachelor's Degree with a 4.0 GPA.
+- Optimized app's performance with best practices and react techniques.
+- Integrated third-party APIs (Supabase, Cloudflare, etc).
 - Maintained clean, scalable codebases with consistent architectural patterns.
+- Leveraging Git to ensure safe project versioning.
 
 ---
 
