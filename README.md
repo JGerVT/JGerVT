@@ -96,5 +96,5 @@ My expertise lies in crafting seamless user experiences using **React**, **Elect
 Feel free to reach out if you'd like to collaborate or chat about tech!
 
 📧 Email: [JGermainContact@gmail.com]  
-🌐 Portfolio: [jessegerstner.dev](https://jgervt.github.io/Portfolio/)  
+🌐 Portfolio: [https://jgervt.github.io/Portfolio/](https://jgervt.github.io/Portfolio/)  
 💼 LinkedIn: [linkedin.com/in/jesse-germain](https://www.linkedin.com/in/jesse-germain-a6351126b/)
