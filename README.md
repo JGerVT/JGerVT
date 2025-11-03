@@ -1,32 +1,98 @@
 # Hi, I'm Jesse 👋
 
+Full-Stack Developer | Building Full-Stack Apps and Websites with Electron & React
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/jesse-germain-a6351126b/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-lightgrey?style=flat-square&logo=google-chrome)](https://jgervt.github.io/Portfolio/)
+
 ## 🌟 About Me
-I am a full stack developer with experience in backend/frontend development and frontend design. Over the years, I have refined my skills by working on a diverse range of personal projects, allowing me to build useful applications and enhance user experiences.
 
-I have hands-on expertise with cloud-based databases, particularly with Supabase and Cloudflare (R2 and Cloudflare Workers), to develop scalable and efficient cloud solutions. 
+I'm a passionate full-stack developer focused on building performant, user-friendly desktop and web applications. With a strong foundation in modern JavaScript ecosystems and cloud technologies, I've independently developed and iterated on several production-ready tools over the years.
 
-My core technical strengths lie in Electron, React, and TypeScript, where I have developed several software applications, ensuring cross-platform compatability, responsive design, and aesthetically designed user interfaces.
+My expertise lies in crafting seamless user experiences using **React**, **Electron**, and **TypeScript**, while leveraging backend systems like **Node.js**, **Express**, **Supabase**, and **Cloudflare Workers** for scalable infrastructure.
 
-## 💻 Main Stack
+🎓 **Education**: Bachelor of Software Development – GPA: 4.0
 
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+---
 
-## 🛠 Other
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Qt](https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Tauri](https://img.shields.io/badge/tauri-%2324C8DB.svg?style=for-the-badge&logo=tauri&logoColor=%23FFFFFF)
-![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)
-![Affinity Photo](https://img.shields.io/badge/affinityphoto-%237E4DD2.svg?style=for-the-badge&logo=affinity-photo&logoColor=white)
+## 💼 Featured Projects
 
+### 📝 [CloudNote](https://github.com/JGerVT/cloudnote) *(Web App)*
+> Cloud saved note-taking with offline-first capabilities.
+- Full-stack implementation using React, Node, Express, and Supabase.
+- Secure auth, IndexedDB caching, and conflict resolution.
+- All Supabase access mediated through a custom backend Node/Express API. 
+
+### 🗓️ [Habit Tracker](https://github.com/JGerVT/habit-tracker) *(Electron App)*
+> Desktop app for visualizing daily habits with interactive heatmaps.
+- Built over 1+ years with performance optimizations and modular architecture.
+- Uses Zustand, Electron, and Supabase for syncing.
+
+### 🖼️ [Random Image Selector](https://github.com/JGerVT/random-image-selector) *(Tauri App)*
+> Quickly browse and randomize images from local folders.
+- Drag-and-drop UI with favorites/history panels.
+
+### 📋 [Clipboard Translator](https://github.com/JGerVT/clipboard-translator) *(Electron App)*
+> Auto-translates clipboard text using Google Translate API.
+- Background service with regex filtering and language selection overlay.
+- Lightweight and always-on-top UX.
+
+### 🎨 [Inspire Canvas](https://github.com/JGerVT/inspire-canvas) *(Python/PyQt App)*
+> Layer-based image/text arrangement tool with export features.
+- Custom drawing engine and layer management system.
+
+---
+
+## 🧰 Tech Stack
+
+### Frontend
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)
+![Zustand](https://img.shields.io/badge/zustand-black?style=flat-square&logo=zustand)
+![styled-components](https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styled-components&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+### Backend & Databases
+![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB)
+![Supabase](https://img.shields.io/badge/supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white)
+![Cloudflare Workers](https://img.shields.io/badge/cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
+
+### Desktop Frameworks
+![Electron](https://img.shields.io/badge/electron-191970?style=flat-square&logo=electron&logoColor=white)
+![Tauri](https://img.shields.io/badge/tauri-%2324C8DB.svg?style=flat-square&logo=tauri&logoColor=%23FFFFFF)
+
+### Languages
+![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=csharp&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white)
+
+### Tools & Platforms
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/adobe%20xd-470137?style=flat-square&logo=Adobe%20XD&logoColor=#FF61F6)
+![Linux](https://img.shields.io/badge/linux-A81D33?style=flat-square&logo=linux&logoColor=white)
+
+---
+
+## 🏆 Key Achievements
+
+- Delivered 5+ full-stack applications from concept to deployment.
+- Specialized in optimizing desktop app performance with Electron and React.
+- Integrated third-party APIs (Google Translate, Supabase, Cloudflare).
+- Maintained clean, scalable codebases with consistent architectural patterns.
+
+---
+
+## 📫 Let's Connect!
+
+Feel free to reach out if you'd like to collaborate or chat about tech!
+
+📧 Email: [JGermainContact@gmail.com]  
+🌐 Portfolio: [jessegerstner.dev](https://jgervt.github.io/Portfolio/)  
+💼 LinkedIn: [linkedin.com/in/jesse-germain](https://www.linkedin.com/in/jesse-germain-a6351126b/)
