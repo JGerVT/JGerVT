@@ -38,7 +38,7 @@ My expertise lies in crafting seamless user experiences using **React**, **Elect
 - Lightweight and always-on-top UX.
 
 ### 🎨 [Inspire Canvas](https://github.com/JGerVT/InspireCanvas) *(Python/PyQt App)*
-> Layer-based image/text arrangement tool with export features.
+> Layer-based image/text arrangement tool
 - Custom drawing and layer management system.
 
 ---
