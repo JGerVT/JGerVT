@@ -1,4 +1,4 @@
-# Hi, I'm Jesse Germain 👋
+# Hi, I'm Jesse 👋
 
 ## 🌟 About Me
 I am a full stack developer with experience in backend/frontend development and frontend design. Over the years, I have refined my skills by working on a diverse range of personal projects, allowing me to build useful applications and enhance user experiences.
