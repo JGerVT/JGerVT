@@ -23,7 +23,7 @@ My expertise lies in crafting seamless user experiences using **React**, **Elect
 - Secure auth, IndexedDB caching, and conflict resolution.
 - All Supabase access mediated through a custom backend Node/Express API. 
 
-### 🗓️ [Habit Tracker](https://github.com/JGerVT/habit-tracker) *(Electron App)*
+### 🗓️ [Habit Tracker](https://github.com/JGerVT/Habit-Tracker-V2) *(Electron App)*
 > Desktop app for visualizing daily habits with interactive heatmaps.
 - Built over 1+ years with performance optimizations and modular architecture.
 - Uses Zustand, Electron, and Supabase for syncing.
@@ -37,7 +37,7 @@ My expertise lies in crafting seamless user experiences using **React**, **Elect
 - Background service with regex filtering and language selection overlay.
 - Lightweight and always-on-top UX.
 
-### 🎨 [Inspire Canvas](https://github.com/JGerVT/inspire-canvas) *(Python/PyQt App)*
+### 🎨 [Inspire Canvas](https://github.com/JGerVT/InspireCanvas) *(Python/PyQt App)*
 > Layer-based image/text arrangement tool with export features.
 - Custom drawing engine and layer management system.
 
