@@ -82,7 +82,7 @@ My expertise lies in crafting seamless user experiences using **React**, **Elect
 
 ## 🏆 Key Achievements
 
-- Delivered 5+ full-stack applications from concept to deployment.
+- Delivered 3+ full-stack applications from concept to deployment.
 - Achieved a Softare Development Bachelor's Degree with a 4.0 GPA.
 - Optimized app's performance with best practices and react techniques.
 - Integrated third-party APIs (Supabase, Cloudflare, etc).
