@@ -3,7 +3,7 @@
 Full-Stack Developer | Building Full-Stack Apps and Websites with Electron & React
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/jesse-germain-a6351126b/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-lightgrey?style=flat-square&logo=google-chrome)](https://jgervt.github.io/Portfolio/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-lightgrey?style=flat-square&logo=google-chrome)](https://portfolio-v2-navy-tau.vercel.app/)
 
 ## 🌟 About Me
 
